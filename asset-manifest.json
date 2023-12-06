@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DW2A4_Adote_front/static/css/main.103d5b26.chunk.css",
+    "main.js": "/DW2A4_Adote_front/static/js/main.acbf01a2.chunk.js",
+    "main.js.map": "/DW2A4_Adote_front/static/js/main.acbf01a2.chunk.js.map",
+    "runtime-main.js": "/DW2A4_Adote_front/static/js/runtime-main.44a07d44.js",
+    "runtime-main.js.map": "/DW2A4_Adote_front/static/js/runtime-main.44a07d44.js.map",
+    "static/js/2.7ef452dd.chunk.js": "/DW2A4_Adote_front/static/js/2.7ef452dd.chunk.js",
+    "static/js/2.7ef452dd.chunk.js.map": "/DW2A4_Adote_front/static/js/2.7ef452dd.chunk.js.map",
+    "index.html": "/DW2A4_Adote_front/index.html",
+    "precache-manifest.4cace02cf842433e8cd79ed0efacdf13.js": "/DW2A4_Adote_front/precache-manifest.4cace02cf842433e8cd79ed0efacdf13.js",
+    "service-worker.js": "/DW2A4_Adote_front/service-worker.js",
+    "static/css/main.103d5b26.chunk.css.map": "/DW2A4_Adote_front/static/css/main.103d5b26.chunk.css.map",
+    "static/js/2.7ef452dd.chunk.js.LICENSE.txt": "/DW2A4_Adote_front/static/js/2.7ef452dd.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/DW2A4_Adote_front/static/media/logo.aa3c9451.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44a07d44.js",
+    "static/js/2.7ef452dd.chunk.js",
+    "static/css/main.103d5b26.chunk.css",
+    "static/js/main.acbf01a2.chunk.js"
+  ]
+}
