@@ -1,4 +1,5 @@
 {
+  "homepage": "http://Mitiko20.github.io/DW2A4_Adote_front",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +24,9 @@
     "start": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
     "build": "SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build" , 
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
